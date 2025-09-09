@@ -1,3 +1,3 @@
 ## Hi there 👋
+![](https://raw.githubusercontent.com/Mautinha/Mautinha/main/dist/enderman-animation.gif)
 
-(https://raw.githubusercontent.com/Mauttinha/Mauttinha/main/dist/enderman-animation.gif)
