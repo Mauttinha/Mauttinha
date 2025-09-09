@@ -229,12 +229,6 @@ class ImprovedEndermanAnimation:
         except:
             font = ImageFont.load_default()
         
-        #title = f"Enderman roubando commits de {self.username}"
-        #text_bbox = draw.textbbox((0, 0), title, font=font)
-        #text_width = text_bbox[2] - text_bbox[0]
-        #text_x = (img_width - text_width) // 2
-        #draw.text((text_x, 5), title, fill=(255, 255, 255), font=font)
-        
         return img
     
     def generate_animation(self):
